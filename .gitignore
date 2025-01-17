@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+codes/week_02_linear-regression/week_2_linear_regression.ipynb
+codes/week_02_linear-regression/week-2-linear-regression-answer.pdf
+codes/week_02_linear-regression/week-2-linear-regression-question.pdf
