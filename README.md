@@ -23,3 +23,5 @@ For more information about the course, please visit:
 - [week_01_linear_algebra](/codes/week_01_linear_algebra)
 
 - [week_02_linear-regression](/codes/week_02_linear-regression)
+
+- [week_03_multiple-linear-regression](/codes/week_03_multiple-linear-regression)
