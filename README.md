@@ -1,6 +1,6 @@
 # Howsam Machine Learning Practice
 
-**Disclaimer:** This [repository](https://github.com/mmmahdiii/howsam_machin_learning_practice) contains **my practice codes** created while following the machine learning course on [howsam.org](https://howsam.org). These codes are **not** guaranteed to be completely correct or efficient. They are primarily intended as a supplementary learning tool alongside the main course materials.
+**Disclaimer:** This [repository](https://github.com/deemok7/howsam_machin_learning_practice) contains **my practice codes** created while following the machine learning course on [howsam.org](https://howsam.org). These codes are **not** guaranteed to be completely correct or efficient. They are primarily intended as a supplementary learning tool alongside the main course materials.
 
 ### Purpose
 
