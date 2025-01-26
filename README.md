@@ -25,3 +25,6 @@ For more information about the course, please visit:
 - [week_02_linear-regression](/codes/week_02_linear-regression)
 
 - [week_03_multiple-linear-regression](/codes/week_03_multiple-linear-regression)
+
+- [week_04_nonlinear_regression](/codes/week_04_nonlinear_regression)
+

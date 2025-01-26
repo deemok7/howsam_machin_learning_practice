@@ -12,3 +12,4 @@
   [Utils](https://scikit-learn.org/stable/api/sklearn.utils.html),
   [ ...](https://scikit-learn.org/stable/api/index.html)
   }
+- [Brilliant](https://brilliant.org/)
