@@ -29,7 +29,9 @@
 - [Aman.ai](https://aman.ai/) Example: [deepseek-R1](https://aman.ai/primers/ai/deepseek-R1/)
 - [Mathway](www.mathway.com)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
-- [Google search: Graph f(x)=e^x](https://www.google.com/search?q=Graph+f%28x%29%3De%5Ex&sca_esv=9cb7d42234e38c28&sxsrf=AHTn8zqZuuOv03xPp8xyS96B9He5c0qxNQ%3A1739093639189&source=hp&ei=h3aoZ42YCb6Ew8cPpLTIwQk&iflsig=ACkRmUkAAAAAZ6iEl4LAi2Tb8Qqw9z3Q_0vDvkKZjK2u&ved=0ahUKEwjN997UpLaLAxU-wvACHSQaMpgQ4dUDCBk&uact=5&oq=Graph+f%28x%29%3De%5Ex&gs_lp=Egdnd3Mtd2l6Ig5HcmFwaCBmKHgpPWVeeDIFEAAYgAQyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyCBAAGIAEGKIESJAPUIIHWIIHcAF4AJABAJgBngKgAZ4CqgEDMi0xuAEDyAEA-AEC-AEBmAICoAKrAqgCC8ICBhCzARiFBMICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BmAMK8QWkdbkS2Y6Di5IHBTEuMC4xoAeZBA&sclient=gws-wiz),
+- [Google search: Graph f(x)=e^x](https://www.google.com/search?q=Graph+f%28x%29%3De%5Ex&sca_esv=9cb7d42234e38c28&sxsrf=AHTn8zqZuuOv03xPp8xyS96B9He5c0qxNQ%3A1739093639189&source=hp&ei=h3aoZ42YCb6Ew8cPpLTIwQk&iflsig=ACkRmUkAAAAAZ6iEl4LAi2Tb8Qqw9z3Q_0vDvkKZjK2u&ved=0ahUKEwjN997UpLaLAxU-wvACHSQaMpgQ4dUDCBk&uact=5&oq=Graph+f%28x%29%3De%5Ex&gs_lp=Egdnd3Mtd2l6Ig5HcmFwaCBmKHgpPWVeeDIFEAAYgAQyBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIFEAAY7wUyCBAAGIAEGKIESJAPUIIHWIIHcAF4AJABAJgBngKgAZ4CqgEDMi0xuAEDyAEA-AEC-AEBmAICoAKrAqgCC8ICBhCzARiFBMICChAAGAMY6gIYjwHCAgoQLhgDGOoCGI8BmAMK8QWkdbkS2Y6Di5IHBTEuMC4xoAeZBA&sclient=gws-wiz)
+- [researchgate](https://www.researchgate.net/)
+- [mlxtend](https://rasbt.github.io/mlxtend/)
 
 ### Courses
 
