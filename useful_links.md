@@ -9,6 +9,9 @@
 - [Deepseek](https://chat.deepseek.com/)
 - [QWEN Chat](https://chat.qwenlm.ai/)
 - [Deep AI](https://deepai.org/), [Text to Image](https://deepai.org/machine-learning-model/text2img)
+- [kimi](https://kimi.ai/)
+- [HuggingChat](https://huggingface.co/chat/)
+- [openai platform](https://platform.openai.com/)
 
 ### Math and AI
 
@@ -37,7 +40,18 @@
 
 - Deep Learning for Computer Vision - Justin Johnson [academictorrents](https://academictorrents.com/details/b0be621d1089525c26fd7325fe77fee2294cc1ab), [youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
+### Books
+
+- [Hands On Data Preprocessing in Python](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python)
+
 ### Other
 
 - [Huggingface](https://huggingface.co/)
 - [Academic torrents](https://academictorrents.com)
+
+### Libs
+
+- [missingno](https://pypi.org/project/missingno/)
+- [gymnasium](https://gymnasium.farama.org/)
+- [pygame](https://pypi.org/project/pygame/)
+- [Dotenv](https://github.com/motdotla/dotenv)

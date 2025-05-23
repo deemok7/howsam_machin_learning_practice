@@ -29,3 +29,7 @@ For more information about the course, please visit:
 - [week_04_nonlinear_regression](/codes/week_04_nonlinear_regression)
 
 - [week_05_06_model_selection](/codes/week_05_06_model_selection)
+
+- [week_07_08_statistics_and_probability](/codes/week_07_08_statistics_and_probability)
+
+- [week_09_data](/codes/week_09_data)
