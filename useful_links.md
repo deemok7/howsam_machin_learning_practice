@@ -27,6 +27,7 @@
   [Preprocessing](https://scikit-learn.org/stable/api/sklearn.preprocessing.html),
   [Pipeline](https://scikit-learn.org/stable/api/sklearn.pipeline.html),
   [ ...](https://scikit-learn.org/stable/api/index.html)
+  [Datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html)
   }
 - [Brilliant](https://brilliant.org/)
 - [Aman.ai](https://aman.ai/) Example: [deepseek-R1](https://aman.ai/primers/ai/deepseek-R1/)
