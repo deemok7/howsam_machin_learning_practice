@@ -39,3 +39,5 @@ For more information about the course, please visit:
 - [week_11_12_logistic_regression](/codes/week_11_12_logistic_regression)
 
 - [week_13_neural_networks](/codes/week_13_neural_networks)
+
+- [week_14_svm](/codes/week_14_svm)
