@@ -33,3 +33,9 @@ For more information about the course, please visit:
 - [week_07_08_statistics_and_probability](/codes/week_07_08_statistics_and_probability)
 
 - [week_09_data](/codes/week_09_data)
+
+- [week_10_mini_project](/codes/week_10_mini_project)
+
+- [week_11_12_logistic_regression](/codes/week_11_12_logistic_regression)
+
+- [week_13_neural_networks](/codes/week_13_neural_networks)

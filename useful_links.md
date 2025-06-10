@@ -26,8 +26,10 @@
   [Utils](https://scikit-learn.org/stable/api/sklearn.utils.html),
   [Preprocessing](https://scikit-learn.org/stable/api/sklearn.preprocessing.html),
   [Pipeline](https://scikit-learn.org/stable/api/sklearn.pipeline.html),
-  [ ...](https://scikit-learn.org/stable/api/index.html)
-  [Datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html)
+  [ ...](https://scikit-learn.org/stable/api/index.html),
+  [Datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html),
+  [Neural network models (supervised)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html),
+  [sklearn.neural_network](https://scikit-learn.org/stable/api/sklearn.neural_network.html)
   }
 - [Brilliant](https://brilliant.org/)
 - [Aman.ai](https://aman.ai/) Example: [deepseek-R1](https://aman.ai/primers/ai/deepseek-R1/)
@@ -37,6 +39,7 @@
 - [researchgate](https://www.researchgate.net/)
 - [mlxtend \*\*\*](https://rasbt.github.io/mlxtend/)
 - [OpenRouter](https://openrouter.ai/)
+- [playground.tensorflow.org](https://playground.tensorflow.org/)
 
 ### Courses
 
