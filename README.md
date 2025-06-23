@@ -41,3 +41,5 @@ For more information about the course, please visit:
 - [week_13_neural_networks](/codes/week_13_neural_networks)
 
 - [week_14_svm](/codes/week_14_svm)
+
+- [week_15_knn](/codes/week_15_knn)
