@@ -40,6 +40,7 @@
 - [mlxtend \*\*\*](https://rasbt.github.io/mlxtend/)
 - [OpenRouter](https://openrouter.ai/)
 - [playground.tensorflow.org](https://playground.tensorflow.org/)
+- [Understanding the decision tree structure](https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html)
 
 ### Courses
 
@@ -49,7 +50,7 @@
 
 - [Hands On Data Preprocessing in Python](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
-- [Probabilistic Machine Learning](https://github.com/probml/pml-book) { [Amazon](https://www.amazon.com/Probabilistic-Machine-Learning-Introduction-Computation/dp/0262046822) }
+- [Probabilistic Machine Learning](https://github.com/probml/pml-book) { [Amazon](https://www.amazon.com/Probabilistic-Machine-Learning-Introduction-Computation/dp/0262046822) } -[Dive into Deep Learning](https://d2l.ai/) {[PDF](https://d2l.ai/d2l-en.pdf) - [Github](https://github.com/d2l-ai/d2l-en)}
 
 ### Other
 
